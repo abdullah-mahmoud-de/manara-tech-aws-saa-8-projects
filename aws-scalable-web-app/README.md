@@ -4,7 +4,8 @@
 This project demonstrates the deployment of a production-grade web application on AWS using EC2 instances inside a properly architected Virtual Private Cloud (VPC). The architecture ensures high availability and fault tolerance by distributing resources across two Availability Zones. It leverages an Application Load Balancer (ALB), Auto Scaling Groups (ASG), and an Amazon RDS Multi-AZ database backend.
 
 ## 🏗️ Solution Architecture
-![Solution Architecture Diagram](./architecture/solution-architecture.png)
+![Solution Architecture Diagram](./architecture/web-app-pro-1-architecture-diagram.png)
+
 *Briefly describe the flow of traffic from the user, through Route 53 and CloudFront, into the ALB, and down to the private EC2 compute and RDS data tiers.*
 
 ## 📂 Repository Directory Structure
