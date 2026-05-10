@@ -1,7 +1,7 @@
 # Scalable Web Application with ALB and Auto Scaling (AWS)
 
 ## 📌 Project Overview
-[cite_start]This project demonstrates the deployment of a production-grade web application on AWS using EC2 instances inside a properly architected Virtual Private Cloud (VPC). The architecture ensures high availability and fault tolerance by distributing resources across two Availability Zones. It leverages an Application Load Balancer (ALB), Auto Scaling Groups (ASG), and an Amazon RDS Multi-AZ database backend.
+This project demonstrates the deployment of a production-grade web application on AWS using EC2 instances inside a properly architected Virtual Private Cloud (VPC). The architecture ensures high availability and fault tolerance by distributing resources across two Availability Zones. It leverages an Application Load Balancer (ALB), Auto Scaling Groups (ASG), and an Amazon RDS Multi-AZ database backend.
 
 ## 🏗️ Solution Architecture
 ![Solution Architecture Diagram](./architecture/solution-architecture.png)
